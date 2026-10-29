@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HAN-port och elmätare – se elförbrukning i realtid | HAN Monitor</title>
+<meta name="description" content="HAN-läsare för elmätare med lokal realtidsdata från HAN-porten. Följ elförbrukning, effekt och faser via Wi‑Fi. Home Assistant/MQTT planeras.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://hanmonitor.no/sv/han-port-elmatare/">
+<link rel="alternate" hreflang="sv" href="https://hanmonitor.no/sv/han-port-elmatare/">
+<link rel="alternate" hreflang="no" href="https://hanmonitor.no/han-leser/">
+<link rel="alternate" hreflang="x-default" href="https://hanmonitor.no/han-leser/">
+<meta property="og:type" content="website"><meta property="og:site_name" content="HAN Monitor"><meta property="og:title" content="HAN-port och elmätare – elförbrukning i realtid"><meta property="og:description" content="Lokal HAN-läsare för moderna elmätare. Realtidsdata, Wi‑Fi och planerad Home Assistant/MQTT-integration."><meta property="og:url" content="https://hanmonitor.no/sv/han-port-elmatare/">
+<style>body{margin:0;font-family:Segoe UI,Arial,sans-serif;color:#11283f;background:#f6fafc;line-height:1.65}.w{max-width:920px;margin:auto;padding:0 22px}nav{height:72px;display:flex;justify-content:space-between;align-items:center}.brand{font-size:22px;font-weight:800;color:#11283f;text-decoration:none}main{padding:48px 0 80px}h1{font-size:clamp(38px,6vw,62px);line-height:1.05;letter-spacing:-2px}h2{font-size:30px;margin-top:42px}.lead{font-size:20px;color:#667b8d}.card{background:#fff;border:1px solid #dce8f1;border-radius:18px;padding:24px;margin:22px 0}.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.btn{display:inline-block;background:#1178d2;color:#fff;padding:13px 18px;border-radius:12px;text-decoration:none;font-weight:800}.mut{color:#667b8d}a{color:#0967b4}footer{border-top:1px solid #dce8f1;padding:28px 0;color:#667b8d;font-size:13px}@media(max-width:700px){.grid{grid-template-columns:1fr}}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"HAN-port och elmätare","url":"https://hanmonitor.no/sv/han-port-elmatare/","inLanguage":"sv","description":"HAN-läsare för elmätare och elförbrukning i realtid."},{"@type":"Product","name":"HAN Monitor","brand":{"@type":"Brand","name":"HAN Monitor"},"category":"HAN-läsare för elmätare","description":"HAN-läsare under utveckling för lokal realtidsdata från elmätarens HAN-port."},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Vad är en HAN-port?","acceptedAnswer":{"@type":"Answer","text":"HAN-porten är kundgränssnittet på elmätaren som kan ge nära realtidsvärden för elanvändning, effekt, ström och spänning beroende på mätare."}},{"@type":"Question","name":"Måste HAN-porten aktiveras?","acceptedAnswer":{"@type":"Answer","text":"Ja. Hos många nätbolag behöver kunden aktivera HAN-porten via Mina sidor innan data kan läsas ut."}},{"@type":"Question","name":"Kan HAN Monitor användas med Home Assistant?","acceptedAnswer":{"@type":"Answer","text":"MQTT och lokalt API för Home Assistant är planerade funktioner men är fortfarande under utveckling och validering."}}]}]}</script>
+</head>
+<body><div class="w"><nav><a class="brand" href="/">HAN Monitor</a><a href="/han-leser/">Norsk</a></nav></div>
+<main><div class="w">
+<h1>HAN-port på elmätare – följ elförbrukningen i realtid</h1>
+<p class="lead">HAN Monitor är en lokal HAN-läsare under utveckling för moderna elmätare. Målet är att visa effekt, ström, spänning och elförbrukning nära realtid direkt från elmätarens HAN-port.</p>
+<div class="card"><strong>Kort sagt:</strong> en HAN-port, ibland kallad kundport eller kundgränssnitt, gör det möjligt att läsa ut mätdata lokalt. Med en kompatibel HAN-läsare kan datan användas för energikoll, smarta hem och lastövervakning.</div>
+<h2>Varför använda HAN-porten?</h2>
+<div class="grid"><div class="card"><strong>Elförbrukning i realtid</strong><p class="mut">Följ aktuell effekt och se när hushållets belastning ökar eller minskar.</p></div><div class="card"><strong>Lokal data</strong><p class="mut">HAN Monitor utvecklas med fokus på lokal åtkomst utan obligatorisk molntjänst.</p></div><div class="card"><strong>Home Assistant</strong><p class="mut">MQTT och lokalt API planeras för smarta hem och egna integrationer.</p></div><div class="card"><strong>Wi‑Fi</strong><p class="mut">Målet är enkel åtkomst från mobil, surfplatta eller dator i hemnätverket.</p></div></div>
+<h2>HAN-läsare för Aidon, Kaifa och Kamstrup</h2>
+<p>HAN Monitor utvecklas först och främst utifrån praktiska tester. Kaifa/Nuri fungerar i prototypen. Aidon och Kamstrup testas vidare och full kompatibilitet lovas först när den är verifierad.</p>
+<h2>Aktivera HAN-porten</h2>
+<p>I Sverige kan HAN-porten behöva aktiveras via nätbolagets Mina sidor. Porten kan då ge nära realtidsvärden från elmätaren. Exakt kontakt och dataprofil kan skilja mellan nätbolag och mätarmodell.</p>
+<h2>HAN-port och Home Assistant</h2>
+<p>För den som vill bygga ett smart hem är lokal HAN-data särskilt intressant för energivisning, automation och laststyrning. MQTT och lokalt API är därför en viktig del av HAN Monitor-planen.</p>
+<h2>Vill du följa utvecklingen?</h2><p>Projektet är fortfarande i beta. Vi söker testare och feedback från användare med olika elmätare.</p><p><a class="btn" href="/#beta">Visa beta-projektet</a></p>
+</div></main><footer><div class="w">© 2026 HAN Monitor · HAN-port · HAN-läsare · elmätare · elförbrukning i realtid</div></footer></body></html>
