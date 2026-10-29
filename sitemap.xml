@@ -3,6 +3,7 @@
   <url><loc>https://hanmonitor.no/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://hanmonitor.no/han-leser/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
   <url><loc>https://hanmonitor.no/stromforbruk-i-sanntid/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://hanmonitor.no/beste-han-leser/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
   <url><loc>https://hanmonitor.no/hvordan-aapne-han-porten/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/han-home-assistant/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/han-port-kaifa-nuri/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -10,6 +11,7 @@
   <url><loc>https://hanmonitor.no/han-port-kamstrup/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/sv/han-port-elmatare/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/sv/elforbrukning-realtid/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hanmonitor.no/sv/han-p1-rj12-rj45/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/sv/han-port-aidon/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://hanmonitor.no/sv/han-port-kamstrup/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://hanmonitor.no/personvern/</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
