@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="no"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HAN og AMS ordliste – OBIS, M-Bus, RJ45, P1 og MQTT</title>
+<meta name="description" content="Norsk ordliste for HAN-port og AMS-målere: HAN, AMS, OBIS, M-Bus, RJ45, RJ12/P1, MQTT, lokalt API og faseverdier forklart enkelt.">
+<meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="https://hanmonitor.no/ordliste-han-ams/">
+<style>body{margin:0;font:17px/1.68 Segoe UI,Arial;color:#11283f;background:#f6fafc}.w{max-width:920px;margin:auto;padding:0 22px}nav{height:72px;display:flex;justify-content:space-between;align-items:center}.brand{font-weight:800;font-size:22px;color:#11283f;text-decoration:none}main{background:#fff;border:1px solid #dce8f1;border-radius:22px;padding:30px;margin:30px 0 70px}h1{font-size:clamp(38px,6vw,58px);line-height:1.05}.lead{font-size:20px;color:#5e7487}.term{padding:18px 0;border-bottom:1px solid #e3edf4}.term h2{margin-bottom:6px}a{color:#0967b4}footer{padding:25px 0;color:#667b8d;font-size:13px}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"DefinedTermSet","name":"HAN og AMS ordliste","url":"https://hanmonitor.no/ordliste-han-ams/","inLanguage":"no"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"HAN Monitor","item":"https://hanmonitor.no/"},{"@type":"ListItem","position":2,"name":"HAN og AMS ordliste","item":"https://hanmonitor.no/ordliste-han-ams/"}]}]}</script>
+</head><body><div class="w"><nav><a class="brand" href="/">HAN Monitor</a><a href="/guider/">Guider</a></nav><main>
+<h1>HAN og AMS – ordliste</h1><p class="lead">Kort forklaring av uttrykk du møter når du skal lese strømdata lokalt fra en norsk AMS-måler.</p>
+<div class="term"><h2>HAN</h2><p><strong>Home Area Network.</strong> Det lokale kundegrensesnittet på AMS-måleren som kan gi eksternt leseutstyr tilgang til måledata. Se <a href="/han-port/">komplett HAN-port guide</a>.</p></div>
+<div class="term"><h2>AMS</h2><p><strong>Avanserte måle- og styringssystemer.</strong> Den smarte strømmåleren og systemet rundt den. HAN-porten er kundens lokale datautgang fra måleren.</p></div>
+<div class="term"><h2>OBIS</h2><p><strong>Object Identification System.</strong> Koder som identifiserer hvilke måleverdier som sendes, for eksempel effekt, energi, strøm og spenning. Se <a href="/obis-koder-han/">OBIS-guiden</a>.</p></div>
+<div class="term"><h2>M-Bus</h2><p>Et standardisert bussgrensesnitt brukt i målersystemer. Norske HAN-løsninger er basert på M-Bus-prinsipper; kontakten kan se ut som nettverk uten å være Ethernet.</p></div>
+<div class="term"><h2>RJ45</h2><p>En fysisk pluggtype med åtte posisjoner. I norske HAN-installasjoner kan RJ45 brukes til HAN/M-Bus, men det betyr ikke vanlig Ethernet. Se <a href="/han-port-rj45-rj12/">RJ45/RJ12-guiden</a>.</p></div>
+<div class="term"><h2>RJ12 / P1</h2><p>P1 er et annet lokalt målergrensesnitt som i enkelte markeder og nyere målere bruker RJ12. En P1-leser passer ikke automatisk norsk HAN/RJ45.</p></div>
+<div class="term"><h2>MQTT</h2><p>En lett meldingsprotokoll som ofte brukes i smarthus. En HAN-leser kan publisere måleverdier via MQTT til for eksempel Home Assistant eller Node-RED.</p></div>
+<div class="term"><h2>Lokalt API</h2><p>Et programmeringsgrensesnitt tilgjengelig i hjemmenettet, slik at andre systemer kan hente data uten at trafikken nødvendigvis må gå via en skytjeneste.</p></div>
+<div class="term"><h2>L1, L2 og L3</h2><p>Fasebetegnelser i et flerfasesystem. Når måleren og datasettet gir faseverdier kan du blant annet se strøm og spenning per fase og lettere oppdage ubalanse.</p></div>
+<div class="term"><h2>HAN-leser</h2><p>Utstyr som kobles til HAN-porten, tolker datastrømmen og gjør verdiene tilgjengelige i app, nettleser, smarthus eller lokal programvare. Se <a href="/han-leser/">guiden til HAN-leser</a>.</p></div>
+<p><a href="/han-port-data/">Hvilke data gir HAN-porten?</a> · <a href="/han-home-assistant/">HAN og Home Assistant</a></p>
+</main><footer>© 2026 HAN Monitor · Ordliste for HAN og AMS</footer></div></body></html>
