@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://hanmonitor.no/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://hanmonitor.no/guider/</loc><changefreq>weekly</changefreq><priority>0.98</priority></url>
-  <url><loc>https://hanmonitor.no/han-port/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://hanmonitor.no/han-port-data/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
-  <url><loc>https://hanmonitor.no/obis-koder-han/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
-  <url><loc>https://hanmonitor.no/han-port-splitter/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hanmonitor.no/sv/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
-  <url><loc>https://hanmonitor.no/en/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hanmonitor.no/de/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://hanmonitor.no/nl/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://hanmonitor.no/han-leser/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://hanmonitor.no/</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://hanmonitor.no/guider/</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.98</priority></url>
+  <url><loc>https://hanmonitor.no/han-port/</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://hanmonitor.no/han-leser/</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://hanmonitor.no/beste-han-leser/</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://hanmonitor.no/han-port-data/</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://hanmonitor.no/obis-koder-han/</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://hanmonitor.no/han-port-oppdateringsfrekvens/</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.92</priority></url>
+  <url><loc>https://hanmonitor.no/han-port-sikkerhet-personvern/</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hanmonitor.no/ordliste-han-ams/</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hanmonitor.no/om-han-monitor/</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://hanmonitor.no/han-port-splitter/</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/stromforbruk-i-sanntid/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
-  <url><loc>https://hanmonitor.no/beste-han-leser/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
   <url><loc>https://hanmonitor.no/hvordan-aapne-han-porten/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/han-home-assistant/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/testmetodikk/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -23,6 +23,10 @@
   <url><loc>https://hanmonitor.no/han-port-kaifa-nuri/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/han-port-aidon/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/han-port-kamstrup/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hanmonitor.no/sv/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://hanmonitor.no/en/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hanmonitor.no/de/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://hanmonitor.no/nl/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
   <url><loc>https://hanmonitor.no/sv/han-port-elmatare/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/sv/elforbrukning-realtid/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hanmonitor.no/sv/han-p1-rj12-rj45/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
