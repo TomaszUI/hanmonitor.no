@@ -1,8 +1,22 @@
 # HAN Monitor — lokale strømdata fra norske AMS-målere
 
-[Prosjektet](https://hanmonitor.no/?utm_source=github&utm_medium=referral&utm_campaign=project_readme) · [Åpne HAN-porten](https://hanmonitor.no/hvordan-aapne-han-porten/) · [Home Assistant: status](https://hanmonitor.no/han-home-assistant/)
+[Prosjektet](https://hanmonitor.no/?utm_source=github&utm_medium=referral&utm_campaign=project_readme) · [Komplett HAN-port guide](https://hanmonitor.no/han-port/) · [Velg HAN-leser](https://hanmonitor.no/beste-han-leser/) · [Åpne HAN-porten](https://hanmonitor.no/hvordan-aapne-han-porten/) · [Home Assistant](https://hanmonitor.no/han-home-assistant/)
 
-HAN Monitor er en HAN-leser under utvikling. Målet er lokal visning på hjemmenettet uten obligatorisk abonnement eller nødvendig skytjeneste.
+HAN Monitor er en HAN-leser under utvikling for norske AMS-målere. Målet er lokal visning av strømdata på hjemmenettet uten obligatorisk abonnement eller nødvendig skytjeneste.
+
+## Teknisk kunnskapsbase
+
+- [HAN-port på AMS-måler – komplett guide](https://hanmonitor.no/han-port/)
+- [Hvilke data gir HAN-porten?](https://hanmonitor.no/han-port-data/)
+- [OBIS-koder i HAN-data](https://hanmonitor.no/obis-koder-han/)
+- [HAN-port splitter – to enheter på samme port](https://hanmonitor.no/han-port-splitter/)
+- [HAN-port uten data – feilsøking](https://hanmonitor.no/han-port-ingen-data/)
+- [HAN/P1 – RJ45 eller RJ12](https://hanmonitor.no/han-port-rj45-rj12/)
+- [Strømforsyning fra HAN-porten](https://hanmonitor.no/han-port-stromforsyning/)
+- [Kaifa/Nuri HAN-port](https://hanmonitor.no/han-port-kaifa-nuri/)
+- [Aidon HAN-port](https://hanmonitor.no/han-port-aidon/)
+- [Kamstrup HAN-port](https://hanmonitor.no/han-port-kamstrup/)
+- [Strømforbruk i sanntid](https://hanmonitor.no/stromforbruk-i-sanntid/)
 
 | Område | Status |
 | --- | --- |
