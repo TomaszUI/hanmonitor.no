@@ -123,3 +123,13 @@ Status: **100/100 wykonane lub zweryfikowane – 31.10.2026.** Ostatni build i d
 98. [x] Zapisać ten plan 100 kroków w repozytorium i prowadzić status.
 99. [x] Rozszerzyć /guider/ o wszystkie nowe strony eksperckie.
 100. [x] Zweryfikować publikację: najnowszy GitHub Pages build, artifact i deploy zakończyły się sukcesem.
+
+## Dalszy rozwój – listopad 2026
+
+- [x] 2026-11-06: Uruchomiono interaktywny konfigurator `/han-konfigurator/` z ostrożną kwalifikacją zgodności.
+- [x] 2026-11-06: Utworzono `/laboratorium/` z rzeczywistymi, historycznymi testami Kaifa/Nuri i wykresem porównawczym.
+- [x] 2026-11-06: Dodano linkowanie z homepage, hubu poradników i README do nowych narzędzi.
+- [x] 2026-11-06: Dopisano oba URL do sitemap.xml.
+- [ ] Pozyskać własne nowe anonimowe logi z wielu instalacji, aby rozbudować laboratorium o wiarygodne testy długoterminowe.
+- [ ] Po uzyskaniu potwierdzonych wyników w GSC dopasować frazy i priorytety podstron.
+- [ ] Pozyskać redakcyjne linki z zaufanych norweskich społeczności energetycznych i smart-home bez spamu.
