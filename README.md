@@ -4,6 +4,11 @@
 
 HAN Monitor er en HAN-leser under utvikling for norske AMS-målere. Målet er lokal visning av strømdata på hjemmenettet uten obligatorisk abonnement eller nødvendig skytjeneste.
 
+## Praktiske verktøy
+
+- [Gratis HAN-konfigurator](https://hanmonitor.no/han-konfigurator/) – sjekkliste for riktig port, målertype og behov
+- [HAN Monitor Laboratorium](https://hanmonitor.no/laboratorium/) – dokumenterte Kaifa/Nuri-prototypetester (ikke sanntid)
+
 ## Teknisk kunnskapsbase
 
 - [HAN-port på AMS-måler – komplett guide](https://hanmonitor.no/han-port/)
