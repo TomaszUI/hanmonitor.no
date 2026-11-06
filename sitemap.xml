@@ -34,4 +34,6 @@
   <url><loc>https://hanmonitor.no/sv/han-port-kamstrup/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://hanmonitor.no/sv/han-port-kaifa/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://hanmonitor.no/personvern/</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://hanmonitor.no/han-konfigurator/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://hanmonitor.no/laboratorium/</loc><lastmod>2026-11-06</lastmod></url>
 </urlset>
